@@ -9,3 +9,9 @@ All links link to the button documentation page.
 - https://github.com/storybookjs/storybook/issues/8618
 - https://github.com/storybookjs/storybook/issues/17921
 - https://github.com/storybookjs/storybook/issues/9502
+
+## Live preview on GitHub pages
+
+*Build locally, not with GitHub actions*
+
+https://dimitrieh.github.io/Test-Storybook-7-Internal-Linking
