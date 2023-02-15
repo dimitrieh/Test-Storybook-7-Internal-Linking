@@ -12,6 +12,6 @@ All links link to the button documentation page.
 
 ## Live preview on GitHub pages
 
-*Build locally, not with GitHub actions*
+*Built locally, not with GitHub actions*
 
 https://dimitrieh.github.io/Test-Storybook-7-Internal-Linking
