@@ -30,7 +30,8 @@ jobs:
           persist-credentials: false
       - name: Install and Build 🔧
         run: | # Install npm packages and build the Storybook files
-          npm install
+          npm install --legacy-peer-deps
+          npm audit fix --force
           npm run build-storybook
       - name: Setup Pages
         uses: actions/configure-pages@v3
